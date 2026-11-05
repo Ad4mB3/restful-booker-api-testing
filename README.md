@@ -19,14 +19,10 @@ This project demonstrates professional QA automation practices, including End-to
 
 ## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Ad4mB3/restful-booker-api-testing.git](https://github.com/Ad4mB3/restful-booker-api-testing.git)
-Install dependencies:
+**1. Clone the repository:**
+```bash
+git clone https://github.com/Ad4mB3/restful-booker-api-testing.git
 
-Bash
 pip install pytest playwright
-Run the tests (with print statements visible):
 
-Bash
 pytest -s
